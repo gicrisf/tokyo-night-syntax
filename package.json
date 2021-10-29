@@ -2,12 +2,12 @@
   "name": "tokyo-night-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "A clean, dark Atom theme that celebrates the lights of downtown Tokyo at night, based on a VSCode theme by @enkia",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/tokyo-night-syntax",
+  "repository": "https://github.com/mr-chrome/tokyo-night-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
