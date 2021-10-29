@@ -1,7 +1,7 @@
 {
   "name": "tokyo-night-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A clean, dark Atom theme that celebrates the lights of downtown Tokyo at night, based on a VSCode theme by @enkia",
   "keywords": [
     "syntax",
